@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1535246009 source:g:\mycppspace\kof8_26\main.cpp
+	<iostream>
+
+1535247687 source:g:\mycppspace\password8_26\main.cpp
+	<iostream>
+	<cstdlib>
+

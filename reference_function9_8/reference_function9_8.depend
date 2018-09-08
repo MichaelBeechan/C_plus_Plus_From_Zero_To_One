@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1536376047 source:g:\mycppspace\reference_function9_8\main.cpp
+	<iostream>
+	"back_reference.hpp"
+
+1536375364 g:\mycppspace\reference_function9_8\back_reference.hpp
+	<iostream>
+

@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1536025025 source:g:\mycppspace\project1_9_2\main.cpp
+	<iostream>
+	<iomanip>
+	<ctime>
+	<vector>
+	<array>
+	<math.h>
+	<cstdlib>
+
