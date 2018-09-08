@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1536047402 source:g:\mycppspace\function9_4\main.cpp
+	<iostream>
+	"GzDemo.h"
+	"EWarray.h"
+
+1536046795 g:\mycppspace\function9_4\gzdemo.h
+	<iostream>
+
+1536047223 g:\mycppspace\function9_4\ewarray.h
+	<iostream>
+

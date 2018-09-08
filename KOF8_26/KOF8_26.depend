@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1535249492 source:g:\mycppspace\kof8_26\main.cpp
+	<iostream>
+	<ctime>
+	<cstdlib>
+	<windows.h>
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1536051045 source:g:\mycppspace\funpointer9_4\main.cpp
+	<iostream>
+	"func_ptr.h"
+
+1536050657 g:\mycppspace\funpointer9_4\func_ptr.h
+	<iostream>
+
