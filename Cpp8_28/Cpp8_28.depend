@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1535703128 source:g:\mycppspace\cpp8_28\main.cpp
+	<iostream>
+	<windows.h>
+	<cmath>
+	<iomanip>
+
+1534921142 source:g:\mycppspace\cpp8_28\test.cpp
+
