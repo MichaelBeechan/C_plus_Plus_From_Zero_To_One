@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1536410908 source:g:\mycppspace\object_oriented9_8\src\landowner_2.cpp
+
+1536459149 source:g:\mycppspace\object_oriented9_8\src\landowner_3.cpp
+	"LandOwner_3.hpp"
+
+1536476841 source:g:\mycppspace\object_oriented9_8\main.cpp
+	<iostream>
+	"LandOwner_1.hpp"
+	"LandOwner_2.h"
+	"LandOwner_3.hpp"
+	"LandOwner_4.hpp"
+	"Student.h"
+
+1536410582 g:\mycppspace\object_oriented9_8\include\landowner_1.hpp
+	<iostream>
+
+1536410971 g:\mycppspace\object_oriented9_8\include\landowner_2.h
+	<iostream>
+
+1536459128 g:\mycppspace\object_oriented9_8\include\landowner_3.hpp
+	<iostream>
+
+1536461710 g:\mycppspace\object_oriented9_8\include\landowner_4.hpp
+	<iostream>
+	<memory.h>
+
+1536462069 source:g:\mycppspace\object_oriented9_8\src\landowner_4.cpp
+	"LandOwner_4.hpp"
+
+1536477019 source:g:\mycppspace\object_oriented9_8\src\student.cpp
+	"Student.h"
+
+1536463284 g:\mycppspace\object_oriented9_8\include\student.h
+	<iostream>
+
