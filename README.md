@@ -37,8 +37,8 @@ Reincarnation_system：投胎系统（游戏）
 OverLoading：重载
 
 object_oriented:面向对象     
-面向对象编程-----------难点    
-构造函数与析构函数-----重点    
+面向对象编程-------------难点    
+构造函数与析构函数--------重点    
 this指针--------------- 重点  
 
 You can find the video in https://study.163.com/course/courseMain.htm?courseId=1003701011
