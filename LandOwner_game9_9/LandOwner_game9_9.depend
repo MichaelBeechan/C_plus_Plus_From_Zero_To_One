@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1536671531 source:g:\mycppspace\landowner_game9_9\main.cpp
+	<iostream>
+	"LandOwner.hpp"
+
+1536671872 g:\mycppspace\landowner_game9_9\include\landowner.hpp
+	<iostream>
+	<vector>
+
+1536671593 source:g:\mycppspace\landowner_game9_9\src\landowner.cpp
+	"LandOwner.hpp"
+	<cstdlib>
+	<ctime>
+	<iterator>
+	<algorithm>
+
